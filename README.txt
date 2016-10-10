@@ -1,5 +1,4 @@
-Project 4 ReadMe
-
+MakeFile
 Leah Headd
 
 
@@ -7,4 +6,4 @@ Leah Headd
 
 This project reads, parses, and executes appropriate commands in a given makefile.
 
-Program works with given main function. 
+Program works with given main function.
